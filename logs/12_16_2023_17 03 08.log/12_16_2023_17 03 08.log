@@ -1,0 +1,11 @@
+[2023-12-16 17:03:08,239] 225 werkzeug -  WARNING -  * Debugger is active!
+[2023-12-16 17:03:08,244] 225 werkzeug -  INFO -  * Debugger PIN: 133-913-437
+[2023-12-16 17:03:08,305] 225 werkzeug -  WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2023-12-16 17:03:08,306] 225 werkzeug -  INFO -  * Running on http://192.168.1.20:80/ (Press CTRL+C to quit)
+[2023-12-16 17:03:32,888] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:32] "GET /predictdata HTTP/1.1" 200 -
+[2023-12-16 17:03:33,087] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:33] "[32mGET /static//robot.png HTTP/1.1[0m" 308 -
+[2023-12-16 17:03:33,379] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:33] "GET /static/robot.png HTTP/1.1" 200 -
+[2023-12-16 17:03:33,405] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:33] "GET /static/background.jpg HTTP/1.1" 200 -
+[2023-12-16 17:03:33,941] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-12-16 17:03:54,172] 225 werkzeug -  INFO - 127.0.0.1 - - [16/Dec/2023 17:03:54] "POST /predictdata HTTP/1.1" 200 -

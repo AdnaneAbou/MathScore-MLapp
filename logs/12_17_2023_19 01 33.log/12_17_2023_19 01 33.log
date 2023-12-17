@@ -1,0 +1,11 @@
+[2023-12-17 19:01:33,948] 225 werkzeug -  WARNING -  * Debugger is active!
+[2023-12-17 19:01:33,954] 225 werkzeug -  INFO -  * Debugger PIN: 133-913-437
+[2023-12-17 19:01:34,019] 225 werkzeug -  WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2023-12-17 19:01:34,019] 225 werkzeug -  INFO -  * Running on http://192.168.1.29:80/ (Press CTRL+C to quit)
+[2023-12-17 19:01:42,460] 225 werkzeug -  INFO - 127.0.0.1 - - [17/Dec/2023 19:01:42] "GET /predictdata HTTP/1.1" 200 -
+[2023-12-17 19:01:42,715] 225 werkzeug -  INFO - 127.0.0.1 - - [17/Dec/2023 19:01:42] "[32mGET /static//robot.png HTTP/1.1[0m" 308 -
+[2023-12-17 19:01:43,083] 225 werkzeug -  INFO - 127.0.0.1 - - [17/Dec/2023 19:01:43] "GET /static/robot.png HTTP/1.1" 200 -
+[2023-12-17 19:01:43,090] 225 werkzeug -  INFO - 127.0.0.1 - - [17/Dec/2023 19:01:43] "GET /static/background.jpg HTTP/1.1" 200 -
+[2023-12-17 19:01:43,574] 225 werkzeug -  INFO - 127.0.0.1 - - [17/Dec/2023 19:01:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-12-17 19:08:19,744] 225 werkzeug -  INFO -  * Detected change in 'C:\\Users\\dell\\Anaconda\\Lib\\configparser.py', reloading

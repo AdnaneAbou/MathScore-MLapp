@@ -2,7 +2,7 @@
 
 # Math Score Prediction Application
 
-![Application Preview](end2end.png)
+![Application Preview](end2end.PNG)
 
 ## Overview
 

@@ -4,7 +4,7 @@
 
 ![Application Preview](end2end.PNG)
 
-## Overview
+## Overview 🚀
 
 This application is designed to predict math scores based on various input features. It utilizes machine learning models to provide accurate predictions and facilitate data-driven decision-making.
 
@@ -22,7 +22,7 @@ This application is designed to predict math scores based on various input featu
 - Docker
 - Azure Account (for deployment)
 
-## Getting Started
+## Getting Started 🛠️
 
 1. Clone the repository:
 
@@ -94,7 +94,7 @@ Deployment on azure using Container Registry
 
 
 
-# Project Conclusion
+# Project Conclusion 📊
 
 ## Summary
 
@@ -109,7 +109,7 @@ The Math Score Prediction Application has successfully concluded its journey, ac
 3. **Azure Deployment:** Deployed the application on Azure using App Service Linux plans, making the math score prediction accessible to a wider audience.
 
 
-## Thank You
+## Thank You 🙌
 
 
 
